@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto Slab', serif; ;
+  max-width: 1000px;
+  margin: 0 auto;
+    background-color: #cc66cc;
+}
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+}
+
+.item {
+
+}
